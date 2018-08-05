@@ -1,0 +1,48 @@
+.container {
+    border:2px solid black;
+    width:326px;
+    height:100%;
+    
+}
+
+.red {
+    font-size:1.5em;
+    color:red;
+}
+.everything {
+    position: relative;
+}
+input[type="button"] {
+    height: 3.5em;
+    margin-bottom:0.4em;
+    width:5.3em;
+    margin-right:0;
+    margin-left:0.4em;
+/*    font-size:1.2em;*/
+}
+.space{
+    margin:0;
+    display:inline;
+}
+span{
+    float :right;
+}
+
+.size {
+    font-size: 24px;
+}
+
+
+#area{
+    width:98%;
+    height:88px;
+    font-size:50px;
+    
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
